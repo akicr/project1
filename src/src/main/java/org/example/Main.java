@@ -2,7 +2,9 @@ package org.example;
 
 public class Main {
     static void main() {
-        IO.println(String.format("Hello and djkj!"));
+
+        IO.println(String.format("Hello and"));
+
 
         for (int i = 1; i <= 5; i++) {
             IO.println("i = " + i);
